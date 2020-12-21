@@ -7,7 +7,7 @@ To perform this analysis for Louise, I used data obtained from Kickstarter campa
 ## Outcomes Based on Launch Date
 In order to provide results that are most relevant to Louise I filtered for theatre campaigns only. I created a pivot table that compared the month the campaign was launched to the outcome of the campaign. Using the pivot table, I created a line chart to visually demonstrate the relationship between outcome of campaign and the launch month. 
 
-![Theatre_Outcomes_vs_Launch](/Outcomes_vs_Goals.png)
+![Theatre_Outcomes_vs_Launch](https://github.com/mdhugge/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 I was able to perform this analysis without any difficulties. A possible challenge that could have arose is determining where each dataset should placed in the pivot table. Although, it is clear that I want to perform an analysis on the outcome of a campaign based on when it was launched, I had to determine for myself where each set of data would be placed in the pivot table. 
 
