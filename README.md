@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 ## Overview of Project
-Louise is a playwright who came to me for assistance in funding her play; Fever. In a short period of time she almost reached her fundraising goal. She would know like me to determine how her fundraising campaign compares to other theatre fundraising campaigns. Specifically, she is interested in how successful or unsuccessful a campaign is based on their funding goals and the date the campaign was launched. To perform this analysis for Louise, I used data obtained from Kickstarter campaigns around the world.
+Louise is a playwright who came to me for assistance in funding her play; Fever. In a short period of time she almost reached her fundraising goal. She would know like me to determine how her fundraising campaign compares to other theatre fundraising campaigns. Specifically, she is interested in how successful or unsuccessful a campaign is based on their funding goals and the date the campaign was launched. To perform this analysis for Louise I used data obtained from Kickstarter campaigns around the world.
 
 ### Purpose
 Help Louise compare her campaign to similar campaigns.
